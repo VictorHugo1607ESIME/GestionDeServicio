@@ -1,4 +1,3 @@
 package com.example.retrofitdog.apiary
 
-class apiaryRequestDTO {
-}
+data class apiaryRequestDTO(val question: String, val choices: String)

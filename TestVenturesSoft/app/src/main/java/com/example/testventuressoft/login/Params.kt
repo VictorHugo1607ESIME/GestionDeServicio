@@ -1,4 +1,3 @@
 package com.example.testventuressoft.login
 
-class Params {
-}
+data class Params(val email:String, val password:String)

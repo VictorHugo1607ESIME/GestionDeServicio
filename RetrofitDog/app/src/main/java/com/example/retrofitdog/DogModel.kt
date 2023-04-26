@@ -1,4 +1,3 @@
 package com.example.retrofitdog
 
-class DogModel {
-}
+data class DogModel(val message: MutableList<String>, val status: String)

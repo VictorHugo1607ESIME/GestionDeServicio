@@ -1,4 +1,3 @@
 package com.example.testventuressoft.login
 
-class LoginResponse {
-}
+data class LoginResponse (val status: String, val msm: Boolean)

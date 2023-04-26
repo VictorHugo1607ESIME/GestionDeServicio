@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">TestVenturesSoft</string>
+    <string name="languages">Idioma</string>
+    <string name="fieldsEmpty">Alguno de los campos estan vacíos</string>
 </resources>
